@@ -1,0 +1,117 @@
+@charset "utf-8";
+
+.contenedor {
+	height: 200;
+	width: 100%;
+	margin: 0 auto;
+	border: 2px black;
+}
+
+#logo {
+	height: 80px;
+	width: 150px;
+	background-color: white;
+	float: left;
+}
+
+
+#titulo {
+	
+	background-color: white;
+	padding: 0px 20px 20px 20px;
+	float: inherit;
+	text-align: inherit;
+	color: black;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 35px;
+	text-shadow: 0px 2px 2px #605C5C;
+	padding-left: 20px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	height: 50px;
+	width: 900px;
+	padding-top: 25px;
+}
+
+
+.inicio a {
+	height: 1200px;
+	width: 50;
+	color: white;
+	padding: 30px 10px 0px;
+	text-align: inherit;
+}
+
+
+#Navegacion div  {
+	width: 100%;
+	height: 50px;
+	text-align: left;
+	color: #FFFFFF;
+	background-color: black;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+#subtitulo h2{
+	
+    color: #F9F9F9;
+    height: 30px;
+    width: 50px;
+	border-radius: 20px 20px 20px 20px;
+
+}
+	
+#subtitulo h1 a{
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 0px;
+
+	
+}
+
+.imagenes a{
+	color: #F9F9F9;
+    height: 30px;
+    width: 50px;
+	border-radius: 20px 20px 20px 20px;
+
+	
+}
+
+#contenido h2{
+	height: 30px;
+	width: 900px;
+	background-color: palevioletred;
+	color: white;
+	text-align: left;
+	padding: 0px 0px 0px 20px;
+}
+#subtitulo2 h2 {
+	background-color:palevioletred;
+    color: #F9F9F9;
+    height: 30px;
+    width: 900px;
+	border-radius: 20px 20px 20px 20px;
+	padding: 0px 0px 0px 20px
+}
+
+#pie h2{
+	width: 100%;
+	height: 40px;
+	color: white;
+	background-color: palevioletred;
+}
+
+#pie h3{
+	width: 100%;
+	height: 40px;
+	color: white;
+	background-color: black;
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 0px;
+	text-align: center;
+}
